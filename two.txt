@@ -6,3 +6,6 @@ Commit 2
 
 Git Branch Marging :
 Commit 3
+
+Git Branch Marging :
+Commit 3 in Feature2 Branch
