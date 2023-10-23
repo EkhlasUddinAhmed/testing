@@ -8,4 +8,7 @@ Git Branch Marging :
 Commit 3
 
 Git Branch Marging :
-Commit 3 in Feature2 Branch
+Commit 4 in Feature2 Branch
+
+Git Branch Marging :
+Commit 5 in Feature2 Branch
